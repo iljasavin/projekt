@@ -1,0 +1,759 @@
+.hero{
+  width:500px;
+  height:900px;
+background: #9bb0d8;
+min-height: 100vh;
+width: 100%;
+color: #fff;
+position: relative; 
+
+}
+
+
+.hero1{
+    background: #fff;
+    min-height: 15vh;
+    width: 100%;
+    color: #fff;
+    position: relative; 
+    border-radius: 0px 0px 50px 50px;      
+    }
+
+
+nav {
+   display: flex;
+   align-items: center;
+   padding: 20px 8%;
+    }
+    
+nav ul {
+    flex:1;
+    text-align: right;
+
+     }   
+
+     nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin: 0 32px;
+
+        
+         }   
+
+#muuk {
+   position: relative;
+   color: black;
+   font-family: 'Aref Ruqaa', serif;
+   font-size: 30px;   
+   font-weight:bold;
+   
+
+    
+     }       
+     
+#erik {
+        
+        font-family: 'Aref Ruqaa', serif;   
+        text-decoration: none;
+        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+font-size: 27px;
+background-color: #9bb0d8;
+border: 3px solid #9bb0d8;
+border-radius: 70px 900px 200px 500px;
+
+          }       
+#projekti-foto {
+    margin-left: -100px;
+      }   
+          
+      #muuk2 {
+        position: absolute;
+        color: black;
+        font-family: 'Aref Ruqaa', serif;
+        font-size: 15px;   
+        font-weight:bold;
+        right: 1007px;
+       bottom: 10px;
+          }       
+
+
+          .hero3{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            margin: 360px 0 0 -370px;
+            background: #6f92d8;
+            min-height: 12vh;
+            width: 50%;
+            color: #fff;
+            border-radius: 50px 50px 0px 0px;      
+
+            justify-content: center;
+            }
+
+          #toto {
+            position: absolute;
+
+            color: black;
+            font-family: 'Aref Ruqaa', serif;
+            font-size: 30px;   
+            font-weight:bold;
+            right: 507px;
+            top: -35px;
+              }      
+              
+              
+        #toto2 {
+          position: absolute;
+          color: black;
+          font-family: 'Aref Ruqaa', serif;
+          font-size: 20px;   
+          right: 507px;
+          bottom: -18px;
+            }      
+
+         #projekti-cart {
+          position: absolute;
+          width: 80px;
+          height: 80px;
+          right: 0px;
+          top: 150px;
+            }         
+
+     .hero4  {
+       
+      position: absolute;
+      width: 300px;
+      height: 400px;
+      background-color: #c7cfdd;
+      border: 3px solid #c7cfdd;
+      border-radius: 100px 0px 100px 0px;
+      top: 300px;
+      left: 180px;
+        }              
+
+
+        .hero5  {
+          position: absolute;
+          width: 300px;
+          height: 400px;
+          background-color: #c7cfdd;
+          border: 3px solid #c7cfdd;
+          border-radius: 100px 0px 100px 0px;
+          top: 300px;
+          left: 590px;
+            }              
+
+            .hero6  {
+              position: absolute;
+              width: 300px;
+              height: 400px;
+              background-color: #c7cfdd;
+              border: 3px solid #c7cfdd;
+              border-radius: 100px 0px 100px 0px;
+              top: 300px;
+              left: 1000px;
+                }              
+
+      #forest {
+width: 300px;
+height: 230px; 
+border-radius: 100px 0px 0px 0px;  
+
+          }              
+   
+ #city {
+            width: 300px;
+            height: 230px; 
+            border-radius: 100px 0px 0px 0px;  
+            
+                      }              
+               
+ #too {
+   width: 300px;
+   height: 230px; 
+ border-radius: 100px 0px 0px 0px;  
+                        
+ }              
+ #osta1 {
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 55px;
+  top: -15px;
+
+                       
+}        
+
+.osta {
+  position: absolute;
+
+  border: 3px solid #5285e2;
+  background-color:#5285e2 ;
+  width: 180px;
+  height: 70px; 
+  border-radius: 100px 0px 100px 0px;
+  bottom: -4px;
+  right: 1px;
+ 
+}                   
+
+
+#osta2 {
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 55px;
+  top: -15px;
+
+                       
+}        
+
+.osta2 {
+  position: absolute;
+
+  border: 3px solid #5285e2;
+  background-color:#5285e2 ;
+  width: 180px;
+  height: 70px; 
+  border-radius: 100px 0px 100px 0px;
+  bottom: -4px;
+  right: 1px;
+ 
+}                   
+
+
+#osta3 {
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  right: 55px;
+  top: -15px;
+
+                       
+}        
+
+.osta3 {
+  position: absolute;
+
+  border: 3px solid #5285e2;
+  background-color:#5285e2 ;
+  width: 180px;
+  height: 70px; 
+  border-radius: 100px 0px 100px 0px;
+  bottom: -4px;
+  right: 1px;
+ 
+}            
+
+
+
+#metsaohk {
+  color: black;
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  position: absolute;
+  bottom: 80px;
+  left: -30px;
+ 
+}            
+
+#metsaohk1 {
+  color: black;
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  position: absolute;
+  bottom: 80px;
+  left: 100px;
+ 
+}            
+#metsaohk2 {
+  color: black;
+  font-family: 'Aref Ruqaa', serif;   
+  font-size: 27px;
+  position: absolute;
+  bottom: 80px;
+  left: 100px;
+ 
+}            
+
+
+#toto3 {
+  position: absolute;
+
+  color: black;
+  font-family: 'Aref Ruqaa', serif;
+  font-size: 14px;   
+  left: 650px;
+  top: 830px;
+
+
+    }      
+
+    #toto4 {
+      position: absolute;
+    
+      color: black;
+      font-family: 'Aref Ruqaa', serif;
+      font-size: 14px;   
+      left: 650px;
+      top: 810px;
+    
+    
+        }         
+
+
+
+        #toto5 {
+          position: absolute;
+        
+          color: black;
+          font-family: 'Aref Ruqaa', serif;
+          font-size: 14px;   
+          left: 690px;
+          top: 850px;
+        
+        
+            }          
+
+
+ #projekti-insta2 {
+              position: absolute;
+              left: 1000px;
+              top: 835px;
+            
+            
+                }          
+
+  #projekti-insta3 {
+                  position: absolute;
+                  left: 1070px;
+                  top: 835px;
+                
+                
+                    }                          
+
+ .ostukorv1  {
+  position: absolute;
+ width: 300px;
+ height: 60px;
+background-color: #c7cfdd;
+ border: 3px solid #c7cfdd;
+ border-radius: 20px 0px 20px 0px;
+ top: 300px;
+ left: 100px;
+    }                      
+
+
+ .ostukorv2 {
+      position: absolute;
+     width: 300px;
+     height: 60px;
+    background-color: #c7cfdd;
+     border: 3px solid #c7cfdd;
+     border-radius: 20px 0px 20px 0px;
+     top: 400px;
+     left: 100px;
+        }                      
+
+
+
+
+.ostukorv3 {
+          position: absolute;
+         width: 300px;
+         height: 60px;
+        background-color: #c7cfdd;
+         border: 3px solid #c7cfdd;
+         border-radius: 20px 0px 20px 0px;
+         top: 500px;
+         left: 100px;
+            }                      
+
+ .ostukorv4 {
+              position: absolute;
+             width: 100px;
+             height: 60px;
+            background-color: #547bc0;
+             border: 3px solid #547bc0;
+             border-radius: 15px 0px 0px 0px;
+             top: -3px;
+             left: -3px;
+                }                      
+    
+                .ostukorv5 {
+                  position: absolute;
+                 width: 100px;
+                 height: 60px;
+                background-color: #547bc0;
+                 border: 3px solid #547bc0;
+                 border-radius: 15px 0px 0px 0px;
+                 top: -3px;
+                 left: -3px;
+                    }                      
+                    .ostukorv6 {
+                      position: absolute;
+                     width: 100px;
+                     height: 60px;
+                    background-color: #547bc0;
+                     border: 3px solid #547bc0;
+                     border-radius: 15px 0px 0px 0px;
+                     top: -3px;
+                     left: -3px;
+                        }                      
+   #kogus {
+    font-family: 'Aref Ruqaa', serif;
+
+    position: absolute;
+   width: 100px;
+   height: 60px;
+   bottom: 537px;
+   left: 450px;
+   background-color: #547bc0;
+   border-radius: 15px 0px 0px 0px;
+   border: blanchedalmond;
+
+      }                   
+                                      
+      #kogus1 {
+        font-family: 'Aref Ruqaa', serif;
+
+        position: absolute;
+       width: 100px;
+       height: 60px;
+       bottom: 437px;
+       left: 450px;
+       background-color: #547bc0;
+       border-radius: 15px 0px 0px 0px;
+    border: blanchedalmond;
+          }                   
+                                                                           
+
+          #kogus2 {
+            font-family: 'Aref Ruqaa', serif;
+    
+            position: absolute;
+           width: 100px;
+           height: 60px;
+           bottom: 337px;
+           left: 450px;
+           background-color: #547bc0;
+           border-radius: 15px 0px 0px 0px;
+        border: blanchedalmond;
+              }   
+ #tarne {
+  font-family: 'Aref Ruqaa', serif;
+position: absolute;
+ bottom: 407px;
+ left: 1100px;
+    }  
+ 
+    #Pakend {
+      font-family: 'Aref Ruqaa', serif;
+    position: absolute;
+     bottom: 357px;
+     left: 1100px;
+        }                           
+    
+        #adres {
+          font-family: 'Aref Ruqaa', serif;
+        position: absolute;
+         bottom: 307px;
+         left: 1100px;
+            }   
+            
+            
+  #tarne1 {
+    font-family: 'Aref Ruqaa', serif;
+  position: absolute;
+  bottom: 423px;
+ left: 1155px;
+ width: 300px;
+ text-align: center;
+      }              
+
+
+
+      #pakend1 {
+        font-family: 'Aref Ruqaa', serif;
+      position: absolute;
+      bottom: 373px;
+     left: 1160px;
+     width: 300px;
+     text-align: center;
+          }  
+   
+          #inputype {
+            font-family: 'Aref Ruqaa', serif;
+          position: absolute;
+          bottom: 322px;
+         left: 1165px;
+         width: 300px;
+         text-align: center;
+              }                           
+
+              #tel {
+                font-family: 'Aref Ruqaa', serif;
+              position: absolute;
+               bottom: 263px;
+               left: 1100px;
+                  }             
+                  #inputype1 {
+                    font-family: 'Aref Ruqaa', serif;
+                  position: absolute;
+                  bottom: 274px;
+                 left: 1165px;
+                 width: 300px;
+                 text-align: center;
+                      }                 
+                      .ostukorv7 {
+                        position: absolute;
+                       width: 250px;
+                       height: 40px;
+                      background-color: #c7cfdd;
+                       border: 3px solid #c7cfdd;
+                       border-radius: 20px 0px 20px 0px;
+                       bottom: 260px;
+                       left: 100px;
+                          }  
+                          .ostukorv8 {
+                            position: absolute;
+                           width: 250px;
+                           height: 50px;
+                          background-color: #c7cfdd;
+                           border: 3px solid #c7cfdd;
+                           border-radius: 20px 0px 20px 0px;
+                           bottom: 160px;
+                           right: 50px;
+                              }                        
+                          
+
+                              .ostukorv9 {
+                                position: absolute;
+                               width: 380px;
+                               height: 100px;
+                              background-color: #c7cfdd;
+                               border: 3px solid #c7cfdd;
+                               border-radius: 20px 0px 20px 0px;
+                               top: 20px;
+                               right: 200px;
+                                  }                        
+                                                          
+
+                                  #sinuostukorv {
+                                    position: absolute;
+                                    color: black;
+                                    top: -40px;
+                                    right: 20px;
+                                    font-size: 50px;
+                                    font-family: 'Aref Ruqaa', serif;
+
+                                      }  
+                                      
+                                      
+
+                                      #maksma {
+                                        position: absolute;
+                                        color: black;
+                                        top: -70px;
+                                        right: 20px;
+                                        font-size: 50px;
+                                        font-family: 'Aref Ruqaa', serif;
+                                        
+                                          }  
+                                  #ohku1 {
+                                    position: absolute;
+                                    color: black;
+                                    top: -26px;
+                                    right: -155px;
+                                    font-size: 30px;
+                                    font-family: 'Aref Ruqaa', serif;
+                                  } 
+                                    #ohku2 {
+                                      position: absolute;
+                                      color: black;
+                                      top: -26px;
+                                      right: -195px;
+                                      font-size: 30px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                    } 
+                                    #knopka {
+                                      height: 30px;
+                                      width: 120px;
+                                      position: absolute;
+                                      color: black;
+                                      bottom: 120px;
+                                      right: 370px;
+                                      font-size: 15px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                    }           
+  
+                                    #knopka1 {
+                                      height: 30px;
+                                      width: 120px;
+                                      position: absolute;
+                                      color: black;
+                                      bottom: 120px;
+                                      right: 250px;
+                                      font-size: 15px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                    }           
+  
+                                               
+                                    #knopka2 {
+                                      height: 30px;
+                                      width: 120px;
+                                      position: absolute;
+                                      color: black;
+                                      bottom: 120px;
+                                      right: 130px;
+                                      font-size: 15px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                    }           
+  
+                                    #maksi {
+                                      height: 30px;
+                                      width: 120px;
+                                      position: absolute;
+                                      color: black;
+                                      bottom: 104px;
+                                      right: 460px;
+                                      font-size: 18px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                    }           
+  
+                                         
+                                    #alla {
+                                      height: 30px;
+                                      width: 120px;
+                                      position: absolute;
+                                      color: black;
+                                      bottom: 95px;
+                                      left: 150px;
+                                      font-size: 25px;
+                                      font-family: 'Aref Ruqaa', serif;
+                                      white-space: nowrap;
+
+                                    }           
+                           
+                                    #silka {
+                                      text-decoration: none;
+                                    }  
+                                    #tänan {
+                                      position: absolute;
+                                     background-color: rgba(220, 227, 243, 0.733);
+                                     height: 300px;
+                                     width: 700px;
+                                     top: 350px;
+                                     right: 400px;
+                                     border-radius: 20px 0px 20px 0px;
+
+                                    }  
+                                                                                         
+                                    #aitah {
+                                      position: absolute;
+                                      font-family: 'Aref Ruqaa', serif;
+                                      left: 370px;
+                                     top: 0px;
+                                    }  
+                                                                                         
+                                    #tanan1 {
+                                     background-color: rgba(107, 143, 226, 0.733);
+                                     height: 300px;
+                                     width: 150px;
+                                     top: 350px;
+                                     right: 400px;
+                                     border-radius: 20px 0px 0px 0px;
+
+                                    }  
+
+                                    #wew {
+                                      position: absolute;
+                                      font-family: 'Aref Ruqaa', serif;
+                                      left: 160px;
+                                     top: 70px;
+                                     white-space: nowrap;
+
+                                    }  
+                                    #ewe {
+                                      position: absolute;
+                                      font-family: 'Aref Ruqaa', serif;
+                                      left: 310px;
+                                     top: 150px;
+                                     white-space: nowrap;
+
+                                    }  
+
+
+
+
+                                    .ostukorv99 {
+                                      position: absolute;
+                                     width: 580px;
+                                     height: 80px;
+                                    background-color: #c7cfdd;
+                                     border: 3px solid #c7cfdd;
+                                     border-radius: 20px 0px 20px 0px;
+                                     top: 50px;
+                                     right: 200px;
+                                        } 
+
+
+                                        #tukorv1{
+                                         font-size: 25px;
+                                         top: 0px;
+                                         color: black;
+                                            } 
+
+
+                                            
+                                        #lopp{
+                                          position: absolute;
+                                     width: 250px;
+                                     height: 50px;
+                                    background-color: #547bc0;
+                                     border: 3px solid #547bc0;
+                                     border-radius: 20px 0px 20px 0px;
+                                     top: 220px;
+                                     right: 170px;
+                                        } 
+                                        #lopp1{
+                                          position: absolute;
+                                          font-family: 'Aref Ruqaa', serif;
+                                          font-size: 25px;
+                                          top: -20px;
+
+                                          right: 40px;
+                                        }     
+
+                                        #silka1 {
+                                          text-decoration: none;
+                                        } 
+
+                                        #sinuostukorv1 {
+                                          position: absolute;
+                                          color: black;
+                                          top: -8px;
+                                          right: 20px;
+                                          font-size: 25px;
+                                          font-family: 'Aref Ruqaa', serif;
+      
+                                            }  
+                                             
+
+                                            #too2 {
+                                              position: absolute;
+                                              left: 0px;
+                                              bottom: 200px;
+          
+                                                }  
+                                                #too3 {
+                                                  position: absolute;
+                                                  right: 0px;
+                                                  bottom: 200px;
+              
+                                                    }  
+                                                                
